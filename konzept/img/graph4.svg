@@ -1,0 +1,63 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="503px" height="338px">
+    <defs>
+        <linearGradient id="PSgrad_0" x1="0%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="rgb(244,154,193)" stop-opacity="1" />
+            <stop offset="100%" stop-color="rgb(255,52,140)" stop-opacity="1" />
+        </linearGradient>
+        <filter filterUnits="userSpaceOnUse" id="Filter_0" x="415px" y="82px" width="38px" height="38px"  >
+            <feOffset in="SourceAlpha" dx="0" dy="0" />
+            <feGaussianBlur result="blurOut" stdDeviation="3.873" />
+            <feFlood flood-color="rgb(0, 0, 0)" result="floodOut" />
+            <feComposite operator="atop" in="floodOut" in2="blurOut" />
+            <feComponentTransfer><feFuncA type="linear" slope="0.45"/></feComponentTransfer>
+            <feMerge>
+                <feMergeNode/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,479.592, 273.173875)" font-size="14px">&#50;&#48;&#49;&#56;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,417.75025, 273.173875)" font-size="14px">&#50;&#48;&#49;&#55;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,355.11525, 273.173875)" font-size="14px">&#50;&#48;&#49;&#54;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,292.726625, 273.173875)" font-size="14px">&#50;&#48;&#49;&#53;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,229.555625, 273.173875)" font-size="14px">&#50;&#48;&#49;&#52;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,167.726625, 273.173875)" font-size="14px">&#50;&#48;&#49;&#51;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,105.75025, 273.173875)" font-size="14px">&#50;&#48;&#49;&#50;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,43.142875, 273.173875)" font-size="14px">&#50;&#48;&#49;&#49;</text>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,0.79237499999999, 3.17387499999995)" font-size="14px"> <tspan> </tspan><tspan x="0" dy="2.571em">&#49;&#51;&#48;</tspan><tspan x="0" dy="2.571em">&#49;&#50;&#53;</tspan><tspan x="0" dy="2.571em">&#49;&#50;&#48;</tspan><tspan x="0" dy="2.571em">&#49;&#49;&#53;</tspan><tspan x="0" dy="2.571em">&#49;&#49;&#48;</tspan><tspan x="0" dy="2.571em">&#49;&#48;&#53;</tspan><tspan x="0" dy="2.571em">&#49;&#48;&#48;</tspan><tspan x="0" dy="2.571em">&#57;&#53;</tspan><tspan x="0" dy="2.571em">&#57;&#48;</tspan>
+    </text>
+    <path fill-rule="evenodd"  opacity="0.2" fill="rgb(192, 192, 192)"
+          d="M501.750,137.000 L501.750,253.250 L30.000,253.250 L30.000,143.750 L111.000,163.250 L166.500,159.500 L231.000,162.500 L333.750,130.250 L401.250,108.500 L501.750,137.000 Z"/>
+    <path fill-rule="evenodd"  opacity="0.4" fill="rgb(0, 158, 188)"
+          d="M501.750,152.000 L501.750,253.250 L30.000,253.250 L30.000,143.750 L111.000,178.250 L166.500,174.500 L231.000,170.000 L333.750,137.750 L423.750,108.500 L501.750,152.000 Z"/>
+    <path fill="url(#PSgrad_0)"
+          d="M501.750,152.000 L501.750,253.250 L30.000,253.250 L30.000,143.750 L111.000,178.250 L166.500,174.500 L231.000,170.000 L333.750,137.750 L423.750,108.500 L501.750,152.000 Z"/>
+    <path fill-rule="evenodd"  fill="rgb(244, 154, 193)"
+          d="M422.870,109.246 L230.297,170.690 L230.301,170.747 L112.551,178.997 L112.499,178.249 L112.201,178.938 L28.951,142.938 L29.547,141.561 L112.629,177.488 L230.197,169.251 L230.249,169.998 L230.360,169.257 L423.110,107.757 L422.999,108.499 L423.342,107.869 L501.342,149.869 L502.157,152.629 L422.870,109.246 Z"/>
+    <text kerning="auto" font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,373.49075, 7.63662500000009)" font-size="14px">&#50;&#48;&#49;&#48;&#32;&#61;&#32;&#49;&#48;&#48;&#44;&#32;log&#46;&#32;Ma&#223;stab</text>
+    <g filter="url(#Filter_0)">
+        <path fill-rule="evenodd"  fill="rgb(244, 154, 193)"
+              d="M433.875,96.500 C436.153,96.500 438.000,98.347 438.000,100.625 C438.000,102.903 436.153,104.750 433.875,104.750 C431.597,104.750 429.750,102.903 429.750,100.625 C429.750,98.347 431.597,96.500 433.875,96.500 Z"/>
+    </g>
+    <text font-family="Museo Sans Cyrl" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,398.531375, 87.97075)" font-size="16px">Viertelj&#228;hrlich</text>
+    <text kerning="auto" font-family="Myriad Pro" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,21.64375, 313.63625)" font-size="14px">H&#228;userpreisindex&#32;&#40;Destatis&#41;</text>
+    <path fill-rule="evenodd"  fill="rgb(207, 81, 178)"
+          d="M9.750,307.250 C11.821,307.250 13.500,308.929 13.500,311.000 C13.500,313.071 11.821,314.750 9.750,314.750 C7.679,314.750 6.000,313.071 6.000,311.000 C6.000,308.929 7.679,307.250 9.750,307.250 Z"/>
+    <text kerning="auto" font-family="Myriad Pro" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,22.096625, 335.625)" font-size="14px">Preisindex&#32;f&#252;r&#32;selbst&#32;genutztes&#32;Wohneigentum&#32;&#40;vdp&#41;</text>
+    <path fill-rule="evenodd"  fill="rgb(234, 108, 18)"
+          d="M9.750,329.750 C11.821,329.750 13.500,331.429 13.500,333.500 C13.500,335.571 11.821,337.250 9.750,337.250 C7.679,337.250 6.000,335.571 6.000,333.500 C6.000,331.429 7.679,329.750 9.750,329.750 Z"/>
+    <text kerning="auto" font-family="Myriad Pro" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,317.4545, 312.63625)" font-size="14px">Hypoport&#32;AG&#32;&#40;Gesamtindex&#41;</text>
+    <path fill-rule="evenodd"  fill="rgb(255, 255, 0)"
+          d="M305.250,306.500 C307.321,306.500 309.000,308.179 309.000,310.250 C309.000,312.321 307.321,314.000 305.250,314.000 C303.179,314.000 301.500,312.321 301.500,310.250 C301.500,308.179 303.179,306.500 305.250,306.500 Z"/>
+    <text kerning="auto" font-family="Myriad Pro" fill="rgb(28, 30, 38)" transform="matrix( 0.75, 0, 0, 0.75,318.877125, 335.75)" font-size="14px">Deutsche&#32;Bundesbank</text>
+    <path fill-rule="evenodd"  fill="rgb(244, 154, 193)"
+          d="M305.250,329.000 C307.321,329.000 309.000,330.679 309.000,332.750 C309.000,334.821 307.321,336.500 305.250,336.500 C303.179,336.500 301.500,334.821 301.500,332.750 C301.500,330.679 303.179,329.000 305.250,329.000 Z"/>
+    <path fill-rule="evenodd"  fill="rgb(175, 175, 175)"
+          d="M28.500,254.750 L28.500,253.250 L501.750,253.250 L501.750,254.750 L28.500,254.750 Z"/>
+    <path fill-rule="evenodd"  fill="rgb(175, 175, 175)"
+          d="M28.500,20.750 L30.000,20.750 L30.000,254.750 L28.500,254.750 L28.500,20.750 Z"/>
+</svg>
